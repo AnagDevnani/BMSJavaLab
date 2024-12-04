@@ -46,7 +46,7 @@ class Student{
 		
 }
 
-class {
+class SGPA{
     public static void main(String[] args){
 		System.out.print("Anag Devnani\n1BM23CS031\n");
 		Student anag = new Student();
